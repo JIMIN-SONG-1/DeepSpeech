@@ -1,6 +1,8 @@
 # Speech Processing and Synthesis Project
 
-이 저장소는 PyTorch를 사용한 음성 인식 및 합성 모델의 구현을 포함합니다. 두 개의 자동 음성 인식(ASR) 모델(`Listen, Attend and Spell` 및 `DeepSpeech2`)과 `Tacotron 2` 및 `WaveGlow`를 사용한 텍스트-음성(TTS) 추론 파이프라인이 포함되어 있습니다.
+이 저장소는 PyTorch를 사용한 음성 인식 및 합성 모델의 구현을 포함합니다. 
+
+두 개의 자동 음성 인식(ASR) 모델(`Listen, Attend and Spell` 및 `DeepSpeech2`)과 `Tacotron 2` 및 `WaveGlow`를 사용한 텍스트-음성(TTS) 추론 파이프라인이 포함되어 있습니다.
 
 ## 목차
 - [프로젝트 개요](#프로젝트-개요)
