@@ -70,13 +70,5 @@ Tacotron 2 추론은 사전 학습된 모델을 사용하므로 별도의 데이
 - Musical Applications of Machine Learning: [Link](https://mac.kaist.ac.kr/~juhan/gct634/)
 - Awesome Audio Study Materials for Korean: [GitHub](https://github.com/keunwoochoi/awesome-audio-study-materials-for-korean)
 
-## 기여 방법
-기여를 환영합니다! 다음 단계를 따라주세요:
-1. 저장소를 포크합니다.
-2. 새 브랜치를 생성합니다 (`git checkout -b feature-branch`).
-3. 변경 사항을 커밋합니다 (`git commit -m "Add feature"`).
-4. 브랜치를 푸시합니다 (`git push origin feature-branch`).
-5. GitHub에서 Pull Request를 생성합니다.
-
 ## 라이선스
 이 프로젝트는 MIT 라이선스에 따라 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
