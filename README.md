@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Speech Processing and Synthesis Project
 This repository contains implementations of speech recognition and synthesis models using PyTorch. It includes two Automatic Speech Recognition (ASR) models (Listen, Attend and Spell and DeepSpeech2) and a Text-to-Speech (TTS) inference pipeline using Tacotron 2 with WaveGlow.
 
@@ -110,3 +111,6 @@ Push to the branch (git push origin feature-branch).
 Open a Pull Request.
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+-
+>>>>>>> 04ecbd24af737cf6d210d25d60c0151a526f23dd
